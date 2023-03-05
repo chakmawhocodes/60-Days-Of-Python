@@ -64,5 +64,5 @@
 - Counters
 - Several Python Projects for Practice
 
-#### 10. Design one Advance Project in Python by implementing all above topics ✅
+#### 10. Design one Advance Project in Python by implementing all above topics✅
 
